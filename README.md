@@ -2,7 +2,7 @@
 
 ## installation:
 * create a env by python 3.7
-* config a postgresq database accrording to seting file 
+* config a postgresql database accrording to seting file 
 * Use the package manager [pip](https://pip.pypa.io/en/stable/) to install requirement.
 
 ```bash
